@@ -1,3 +1,3 @@
-自然言語処理100本ノック用（http://www.cl.ecei.tohoku.ac.jp/nlp100/ ）のプログラム
+自然言語処理100本ノック用（http://www.cl.ecei.tohoku.ac.jp/nlp100/ ）のプログラム(Python)
 
-とりあえず書いただけなので参考にはならない
+とりあえず書いただけなので参考にはならない、ごめん
